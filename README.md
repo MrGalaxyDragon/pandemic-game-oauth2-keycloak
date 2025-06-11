@@ -5,26 +5,10 @@
     </p>
 </div>
 
-<a href="https://github.com/PandemicGame/pandemic-game-oauth2-keycloak/graphs/contributors">
-    <img
-        src="https://img.shields.io/github/contributors/PandemicGame/pandemic-game-oauth2-keycloak?style=for-the-badge"
-        alt="GitHub contributors" />
-</a>
-<a href="https://github.com/PandemicGame/pandemic-game-oauth2-keycloak/forks">
-    <img
-        src="https://img.shields.io/github/forks/PandemicGame/pandemic-game-oauth2-keycloak?style=for-the-badge"
-        alt="GitHub forks" />
-</a>
-<a href="https://github.com/PandemicGame/pandemic-game-oauth2-keycloak/stargazers">
-    <img
-        src="https://img.shields.io/github/stars/PandemicGame/pandemic-game-oauth2-keycloak?style=for-the-badge"
-        alt="GitHub Repo stars" />
-</a>
-<a href="https://opensource.org/license/gpl-3-0">
-    <img
-        src="https://img.shields.io/github/license/PandemicGame/pandemic-game-oauth2-keycloak?style=for-the-badge"
-        alt="License: GPL-3.0" />
-</a>
+[![GitHub contributors](https://img.shields.io/github/contributors/PandemicGame/pandemic-game-oauth2-keycloak?style=for-the-badge)](https://github.com/PandemicGame/pandemic-game-oauth2-keycloak/graphs/contributors)
+[![GitHub forks](https://img.shields.io/github/forks/PandemicGame/pandemic-game-oauth2-keycloak?style=for-the-badge)](https://github.com/PandemicGame/pandemic-game-oauth2-keycloak/forks)
+[![GitHub Repo stars](https://img.shields.io/github/stars/PandemicGame/pandemic-game-oauth2-keycloak?style=for-the-badge)](https://github.com/PandemicGame/pandemic-game-oauth2-keycloak/stargazers)
+[![License: GPL-3.0](https://img.shields.io/github/license/PandemicGame/pandemic-game-oauth2-keycloak?style=for-the-badge)](https://opensource.org/license/gpl-3-0)
 
 > [!TIP]
 > see also [Backend](https://github.com/PandemicGame/pandemic-game-backend-java)
